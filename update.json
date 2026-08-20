@@ -1,5 +1,5 @@
 {
-  "latestVersionCode": 2,
-  "forceUpdate": true,
-  "updateUrl": "https://github.com/hwijaya2025-spec/update/releases/download/v2/app-release.apk"
+  "latestVersionCode": 1,
+  "forceUpdate": false,
+  "updateUrl": ""
 }
