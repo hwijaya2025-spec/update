@@ -1,5 +1,6 @@
 {
-  "latestVersionCode": 2,
+  "version_code": 2,
   "forceUpdate": true,
-  "updateUrl": ""
+  "message": "Pembaruan versi 2.0 tersedia. Wajib memperbarui Hanma TV untuk melanjutkan.",
+  "download_url": "https://raw.githubusercontent.com/hwijaya2025-spec/update/refs/heads/main/app-release.apk"
 }
