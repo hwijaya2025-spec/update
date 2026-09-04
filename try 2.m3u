@@ -79,3 +79,6 @@ https://ogietv.biz.id:443/Livetv/234/76676.m3u8
 https://ogietv.biz.id:443/Livetv/234/76677.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 76678" group-title="OgieTV",Channel 76678
 https://ogietv.biz.id:443/Livetv/234/76678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 76678" group-title="OgieTV",Channel 76678 coba
+https://ogietv.biz.id:443/Livetv/234/1032527.m3u8
+
